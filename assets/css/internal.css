@@ -1,5 +1,6 @@
 @import url('reset.css');
 @import url('global.css');
+@import url('home-page-styles.css');
 @import url('components/-navigator.css');
 @import url('components/-pills.css');
 @import url('components/-link-button.css');
@@ -38,7 +39,7 @@
 }
 
 .s-wrapper .s-main-content__top {
-    height: 80vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -49,12 +50,13 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    margin
 }
 
 .s-wrapper .s-main-content .s-logo img {
-    margin-top: 30px;
+    margin-top: ;
     margin-left: 0;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .s-wrapper .s-main-content__top .s-description {

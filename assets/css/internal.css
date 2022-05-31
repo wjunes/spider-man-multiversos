@@ -39,22 +39,22 @@
 }
 
 .s-wrapper .s-main-content__top {
-    height: 70vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
 
 .s-wrapper .s-main-content__bottom {
-    height: 20vh;
+    height:20vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    margin
+    
 }
 
 .s-wrapper .s-main-content .s-logo img {
-    margin-top: ;
+    margin-top: 0;
     margin-left: 0;
     margin-bottom: 10px;
 }
@@ -81,7 +81,7 @@
   }
   
   .s-wrapper .s-main-content .s-links{
-    padding: 20px;
+    padding: 10px;
     padding-left: 0;
   }
   
